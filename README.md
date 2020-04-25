@@ -1,2 +1,2 @@
 # Animation
-The simple animation
+The simple animation program run in processing
